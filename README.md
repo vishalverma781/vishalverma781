@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack developer**
 
-- 👨‍💻 All of my projects are available at [http://linkedin.com/in/vishalverma781/](http://linkedin.com/in/vishalverma781/)
+- 👨‍💻 All of my projects are available at [http://linkedin.com/in/vishalverma781/]()
 
 - 📫 How to reach me **vishalvermayt@gmail.com**
 
